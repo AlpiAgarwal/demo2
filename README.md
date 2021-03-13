@@ -6,5 +6,9 @@ This is good
 Adding intro
 elaborate it 
 ## Purpose
+Adding purpose
+in staging
 ## how to contribute
+Adding contribution in workin dir
+in wd
 ## Finally
